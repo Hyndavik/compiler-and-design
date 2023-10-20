@@ -2,7 +2,7 @@
   #include <stdio.h>
   char* numbers[100];
   int num_count = 0;
-  char* words[100]; 
+  char* words[100];
   int word_count = 0;
 %}
 
